@@ -1,0 +1,14 @@
+body{
+    background-color: whitesmoke;
+    text-align: center;
+    margin: 20px;
+}
+.my{
+    background-color: black;
+    display:inline;
+    text-decoration: none;
+    text-align: center;
+    height: 40px;
+    width: 100px;
+    text-decoration-color: white;
+}
